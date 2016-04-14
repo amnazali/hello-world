@@ -2,4 +2,6 @@
 my first repo
 
 
-please see the detail information at http://snacksuper.com
+please see the detail information at http://snacksuper.com/
+contact : Ade M Nazali
+
